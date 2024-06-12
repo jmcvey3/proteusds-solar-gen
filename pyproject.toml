@@ -19,7 +19,7 @@ classifiers = [
 
 dependencies = [
   "numpy",
-  "typer",
+  "typer >=0.4",
 ]
 
 [project.scripts]
